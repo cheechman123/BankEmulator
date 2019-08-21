@@ -2,6 +2,9 @@ package whyNotPractice;
 
 public class Main {
     public static void main(String[] args) {
+      persentCount();
+    }
+    public static double persentCount(){
         double startCapital = 10_000.0;
         int additionalAmount = 1000;
         double persent = 0.1;
@@ -16,6 +19,7 @@ public class Main {
         System.out.println("deposit-" + startCapital);
         System.out.println("you'll get in the end of year -" + (resOfSub + startCapital));
 
-            // Денис какашка
+        // Денис какашка
+        return resOfSub + startCapital;
     }
 }
