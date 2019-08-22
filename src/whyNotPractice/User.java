@@ -2,7 +2,7 @@ package whyNotPractice;
 
 public class User {
     private final double persent;
-    private final double startCapital;
+    private  double startCapital;
     private final int numOfMonth;
     private final double additionalAmount;
 
@@ -19,6 +19,9 @@ public class User {
 
     public double getStartCapital() {
         return startCapital;
+    }
+    public void setStartCapital(double startCapital){
+        this.startCapital = startCapital;
     }
 
     public int getNumOfMonth() {
