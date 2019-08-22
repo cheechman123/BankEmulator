@@ -1,10 +1,10 @@
 package whyNotPractice;
 
 public class User {
-    private double persent;
-    private double startCapital;
-    private int numOfMonth;
-    private double additionalAmount;
+    private final double persent;
+    private final double startCapital;
+    private final int numOfMonth;
+    private final double additionalAmount;
 
     public User(double persent, double startCapital, int numOfMonth, double additionalAmount) {
         this.persent = persent;
