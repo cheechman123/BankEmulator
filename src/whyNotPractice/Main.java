@@ -2,11 +2,6 @@ package whyNotPractice;
 
 public class Main {
     public static void main(String[] args) {
-        double startCapital;
-        double persent;
-        int additionalAmount;
-        double month;
-        persentCount(10000, 0.1, 1000, 12);
         System.out.println(persentCount(10000, 0.1, 1000, 12));
     }
 
