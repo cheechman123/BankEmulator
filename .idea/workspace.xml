@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c650b0cd-04b9-4bd7-83ae-0fcf0ebb3d37" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/whyNotPractice/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/whyNotPractice/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whyNotPractice/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/whyNotPractice/Bank.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,13 +14,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/whyNotPractice/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+            <state relative-caret-position="425">
+              <caret line="31" column="59" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="59" />
               <folding>
-                <element signature="docComment;class#User#0" />
                 <element signature="e#970#971#0" expanded="true" />
                 <element signature="e#1000#1001#0" expanded="true" />
                 <element signature="e#1039#1040#0" expanded="true" />
@@ -36,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/whyNotPractice/Bank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+            <state relative-caret-position="527">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
               <folding>
                 <element signature="e#282#283#0" expanded="true" />
                 <element signature="e#312#313#0" expanded="true" />
@@ -112,9 +111,9 @@
         <option value="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson39/Demo.java" />
         <option value="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson40/Demo.java" />
         <option value="$PROJECT_DIR$/src/whyNotPractice/Main.java" />
-        <option value="$PROJECT_DIR$/src/whyNotPractice/Bank.java" />
         <option value="$PROJECT_DIR$/src/whyNotPractice/PercentCalculator.java" />
         <option value="$PROJECT_DIR$/src/whyNotPractice/User.java" />
+        <option value="$PROJECT_DIR$/src/whyNotPractice/Bank.java" />
       </list>
     </option>
   </component>
@@ -327,7 +326,7 @@
       <workItem from="1566411687147" duration="5256000" />
       <workItem from="1566462962090" duration="4610000" />
       <workItem from="1566494308013" duration="3664000" />
-      <workItem from="1566546100806" duration="944000" />
+      <workItem from="1566546100806" duration="1181000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1566416431770</created>
@@ -392,11 +391,18 @@
       <option name="project" value="LOCAL" />
       <updated>1566502408788</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add javadoc to &quot;User&quot; class">
+      <created>1566547147085</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1566547147085</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72308000" />
+    <option name="totallyTimeSpent" value="72545000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="814" height="867" extended-state="0" />
@@ -445,7 +451,8 @@
     <MESSAGE value="Add new java class &quot;Bank&quot; fill out necessary, refactor code in java class User" />
     <MESSAGE value="Refactor old code,add new funcional" />
     <MESSAGE value="Add new class &quot;PersentCalculator&quot; and fill out functional" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add new class &quot;PersentCalculator&quot; and fill out functional" />
+    <MESSAGE value="Add javadoc to &quot;User&quot; class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add javadoc to &quot;User&quot; class" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson13/Person.java">
@@ -807,17 +814,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/whyNotPractice/Bank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding>
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/whyNotPractice/PercentCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -827,10 +823,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/whyNotPractice/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        <state relative-caret-position="425">
+          <caret line="31" column="59" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="59" />
           <folding>
-            <element signature="docComment;class#User#0" />
             <element signature="e#970#971#0" expanded="true" />
             <element signature="e#1000#1001#0" expanded="true" />
             <element signature="e#1039#1040#0" expanded="true" />
@@ -841,6 +836,17 @@
             <element signature="e#1243#1244#0" expanded="true" />
             <element signature="e#1513#1514#0" expanded="true" />
             <element signature="e#1552#1553#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/whyNotPractice/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
           </folding>
         </state>
       </provider>
