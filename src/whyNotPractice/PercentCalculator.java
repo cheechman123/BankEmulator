@@ -1,8 +1,9 @@
 package whyNotPractice;
 /**
  * Class PercentCalculator with property <b>user</b> and <b>bank</b>
+ * class is intended for calculation total amount by deposit with persents
  * @autor FaiFai
- * @version 1.0
+ * @version 1.1
  */
 public class PercentCalculator {
     /** Object of class User - user*/
@@ -13,9 +14,10 @@ public class PercentCalculator {
     /**
      * Method calculate user's deposit , and check what tariff user want with tariff witch bank can offed
      * @param user
+     * @param bank
      * @return
      */
-    public  double calculate( User user) {
+    public  double calculate( User user,Bank bank) {
         double resOfSub = 0;
         if(user.getPersent() != bank.getPersent() && user.getNumOfMonth() != bank.getMonth()) {
             throw new IllegalArgumentException("Sorry this service not supported ");

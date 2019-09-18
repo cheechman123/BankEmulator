@@ -2,6 +2,9 @@ package whyNotPractice;
 
 /**
  * Class User with property <b>persent</b>,<b>startCapital</b>,<b>numOfMonth</b>,<b>additionalAmount</b>
+ * class is intended to set requests of user, to get values of persent, start capital,
+ * number of month, and additional amount
+ * class provides
  * @autor FaiFai
  * @version 1.0
  */

@@ -8,6 +8,14 @@ class Demo {
     public static void main(String[] args) {
         Container container = new Container();
         Container container1 = new Container();
+        MyIterator iterator = container.getIterator();
+        while (iterator.hasNext()) {
+            System.out.println(iterator.next());
+        }
+        MyIterator iterator1 = container1.getIterator();
+        while (iterator1.hasNext()) {
+            System.out.println(iterator1.next());
+        }
 
         container1.add("1111");
         container1.add("pipirochka");
@@ -30,7 +38,18 @@ class Demo {
     }
 }
 
-class Container {
+interface MyIterator {
+    boolean hasNext();
+
+    Object next();
+}
+
+interface IContainer {
+    MyIterator getIterator();
+}
+
+
+class Container implements IContainer {
     String[] container;
 
     Container() {
@@ -93,19 +112,20 @@ class Container {
         }
         return false;
     }
-    boolean containsAll(Container container1){
+
+    boolean containsAll(Container container1) {
         if (container1 == null)
             throw new NullPointerException("Your Container is null");
-        if(container1.size() == 0)
+        if (container1.size() == 0)
             return false;
-        String[] stringMass =(String[]) container1.toArray();
-        if(stringMass.length>container.length)
+        String[] stringMass = (String[]) container1.toArray();
+        if (stringMass.length > container.length)
             return false;
 
         int count = 0;
 
-        for (int i = 0 ; i<stringMass.length;i++){
-            for (int j = 0; j<container.length;j++) {
+        for (int i = 0; i < stringMass.length; i++) {
+            for (int j = 0; j < container.length; j++) {
                 if (stringMass[i].equals(container[j]))
                     count++;
 
@@ -113,7 +133,27 @@ class Container {
         }
         return stringMass.length == count ? true : false;
     }
-//    public Iterator<String> iterator(){
-//
-//    }
+
+
+    @Override
+    public MyIterator getIterator() {
+        return (MyIterator) new ArraIterator();
+    }
+
+    class ArraIterator implements MyIterator {
+        int index;
+
+        @Override
+        public boolean hasNext() {
+            return (index < container.length) ? true : false;
+        }
+
+        @Override
+        public Object next() {
+            if (hasNext()) {
+                return container[index];
+            }
+            return null;
+        }
+    }
 }

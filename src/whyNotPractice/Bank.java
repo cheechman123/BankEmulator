@@ -3,6 +3,8 @@ package whyNotPractice;
 import java.io.IOException;
 /**
  * Class Bank with property <b>persent</b> and <b>month</b>
+ * class provides API for cooperation user with tariff's, which bank provides,
+ * allow user's to check suitable tariff
  * @autor FaiFai
  * @version 1.0
  */

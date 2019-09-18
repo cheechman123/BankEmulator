@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c650b0cd-04b9-4bd7-83ae-0fcf0ebb3d37" name="Default Changelist" comment="">
+    <list default="true" id="c650b0cd-04b9-4bd7-83ae-0fcf0ebb3d37" name="Default Changelist" comment="Add javadoc to &quot;PersentCalculator&quot; class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice2/task5/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice2/task5/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whyNotPractice/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/whyNotPractice/Bank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/whyNotPractice/PercentCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/whyNotPractice/PercentCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whyNotPractice/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/whyNotPractice/User.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,45 +17,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/whyNotPractice/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="31" column="59" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="59" />
-              <folding>
-                <element signature="e#970#971#0" expanded="true" />
-                <element signature="e#1000#1001#0" expanded="true" />
-                <element signature="e#1039#1040#0" expanded="true" />
-                <element signature="e#1074#1075#0" expanded="true" />
-                <element signature="e#1128#1129#0" expanded="true" />
-                <element signature="e#1176#1177#0" expanded="true" />
-                <element signature="e#1210#1211#0" expanded="true" />
-                <element signature="e#1243#1244#0" expanded="true" />
-                <element signature="e#1513#1514#0" expanded="true" />
-                <element signature="e#1552#1553#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/whyNotPractice/Bank.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="23" />
-              <folding>
-                <element signature="e#282#283#0" expanded="true" />
-                <element signature="e#312#313#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/whyNotPractice/PercentCalculator.java">
+        <entry file="file://$PROJECT_DIR$/src/Practice2/task5/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
+            <state relative-caret-position="-51">
+              <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3451#3452#0" expanded="true" />
+                <element signature="e#3478#3479#0" expanded="true" />
+                <element signature="e#3561#3562#0" expanded="true" />
+                <element signature="e#3598#3599#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/Object.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="244" column="18" selection-start-line="244" selection-start-column="18" selection-end-line="244" selection-end-column="18" />
+              <folding>
+                <element signature="e#10225#10226#0" expanded="true" />
+                <element signature="e#10308#10309#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -100,7 +89,6 @@
         <option value="$PROJECT_DIR$/src/Practice2/task3/Demo.java" />
         <option value="$PROJECT_DIR$/src/Practice2/task4/Demo.java" />
         <option value="$PROJECT_DIR$/src/Practice2/task5/Iterator.java" />
-        <option value="$PROJECT_DIR$/src/Practice2/task5/Demo.java" />
         <option value="$PROJECT_DIR$/src/lesson29/A.java" />
         <option value="$PROJECT_DIR$/src/lesson34/Main.java" />
         <option value="$PROJECT_DIR$/src/lesson35/Demo.java" />
@@ -111,15 +99,18 @@
         <option value="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson39/Demo.java" />
         <option value="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson40/Demo.java" />
         <option value="$PROJECT_DIR$/src/whyNotPractice/Main.java" />
-        <option value="$PROJECT_DIR$/src/whyNotPractice/User.java" />
-        <option value="$PROJECT_DIR$/src/whyNotPractice/Bank.java" />
         <option value="$PROJECT_DIR$/src/whyNotPractice/PercentCalculator.java" />
+        <option value="$PROJECT_DIR$/src/whyNotPractice/Bank.java" />
+        <option value="$PROJECT_DIR$/src/whyNotPractice/User.java" />
+        <option value="$PROJECT_DIR$/src/Practice2/task5/IteratorImpl.java" />
+        <option value="$PROJECT_DIR$/src/Practice2/task5/Demo.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="814" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1592" />
+    <option name="y" value="-8" />
+    <option name="width" value="1234" />
     <option name="height" value="867" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -155,7 +146,14 @@
               <item name="LessonsYouTube" type="b2602c69:ProjectViewProjectNode" />
               <item name="LessonsYouTube" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="whyNotPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LessonsYouTube" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LessonsYouTube" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice2" type="462c0819:PsiDirectoryNode" />
+              <item name="task5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -177,7 +175,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566547959717" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568823693322" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -185,7 +183,12 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Practice2.task5" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -199,7 +202,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Demo (3)">
     <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson10_38lesson10nasledovanie.lesson39.Demo" />
       <module name="LessonsYouTube" />
@@ -219,6 +222,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lesson10_38lesson10nasledovanie.lesson40.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice2.task5.Demo" />
+      <module name="LessonsYouTube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice2.task5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -266,25 +282,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson10_38lesson10nasledovanie.lesson34.Main" />
-      <module name="LessonsYouTube" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson10_38lesson10nasledovanie.lesson34.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo (3)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Demo (2)" />
         <item itemvalue="Application.Demo (1)" />
-        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
@@ -326,7 +329,13 @@
       <workItem from="1566411687147" duration="5256000" />
       <workItem from="1566462962090" duration="4610000" />
       <workItem from="1566494308013" duration="3664000" />
-      <workItem from="1566546100806" duration="1729000" />
+      <workItem from="1566546100806" duration="6498000" />
+      <workItem from="1567521252368" duration="577000" />
+      <workItem from="1567611627757" duration="1733000" />
+      <workItem from="1567690710047" duration="1294000" />
+      <workItem from="1568607535054" duration="594000" />
+      <workItem from="1568621674697" duration="591000" />
+      <workItem from="1568820471149" duration="3199000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1566416431770</created>
@@ -405,17 +414,23 @@
       <option name="project" value="LOCAL" />
       <updated>1566547377621</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add javadoc to &quot;PersentCalculator&quot; class">
+      <created>1566548007714</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1566548007715</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73093000" />
+    <option name="totallyTimeSpent" value="85850000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="814" height="867" extended-state="0" />
-    <editor active="true" />
+    <frame x="1592" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20689656" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.102345414" />
       <window_info id="Structure" order="1" sideWeight="0.50075185" side_tool="true" weight="0.21775702" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -424,7 +439,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24331927" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24222222" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -432,7 +447,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32911393" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.2611111" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32911393" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32489452" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -460,16 +475,10 @@
     <MESSAGE value="Add new class &quot;PersentCalculator&quot; and fill out functional" />
     <MESSAGE value="Add javadoc to &quot;User&quot; class" />
     <MESSAGE value="Add javadoc to &quot;Bank&quot; class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add javadoc to &quot;Bank&quot; class" />
+    <MESSAGE value="Add javadoc to &quot;PersentCalculator&quot; class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add javadoc to &quot;PersentCalculator&quot; class" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson13/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson16/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -702,16 +711,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practice2/task5/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Practice2/MyList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -824,38 +823,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/whyNotPractice/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="31" column="59" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="59" />
-          <folding>
-            <element signature="e#970#971#0" expanded="true" />
-            <element signature="e#1000#1001#0" expanded="true" />
-            <element signature="e#1039#1040#0" expanded="true" />
-            <element signature="e#1074#1075#0" expanded="true" />
-            <element signature="e#1128#1129#0" expanded="true" />
-            <element signature="e#1176#1177#0" expanded="true" />
-            <element signature="e#1210#1211#0" expanded="true" />
-            <element signature="e#1243#1244#0" expanded="true" />
-            <element signature="e#1513#1514#0" expanded="true" />
-            <element signature="e#1552#1553#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="289">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/whyNotPractice/Bank.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="23" />
-          <folding>
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="85">
+          <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/whyNotPractice/PercentCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
+        <state relative-caret-position="51">
+          <caret line="3" column="74" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="244" column="18" selection-start-line="244" selection-start-column="18" selection-end-line="244" selection-end-column="18" />
+          <folding>
+            <element signature="e#10225#10226#0" expanded="true" />
+            <element signature="e#10308#10309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Practice2/task5/IteratorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Practice2/task5/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3451#3452#0" expanded="true" />
+            <element signature="e#3478#3479#0" expanded="true" />
+            <element signature="e#3561#3562#0" expanded="true" />
+            <element signature="e#3598#3599#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
