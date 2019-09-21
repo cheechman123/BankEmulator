@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c650b0cd-04b9-4bd7-83ae-0fcf0ebb3d37" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice2/task5/Container.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice2/task5/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice2/task5/task5/Container.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice2/task5/task5/Container.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice2/task5/task5/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice2/task5/task5/Demo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Practice2/task5/task5/Container.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="59" column="24" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
+            <state relative-caret-position="332">
+              <caret line="66" column="21" lean-forward="true" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
               <folding>
                 <element signature="e#155#156#0" expanded="true" />
                 <element signature="e#210#211#0" expanded="true" />
@@ -185,7 +181,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569087111047" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569087302028" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -359,7 +355,7 @@
       <workItem from="1568607535054" duration="594000" />
       <workItem from="1568621674697" duration="591000" />
       <workItem from="1568820471149" duration="8498000" />
-      <workItem from="1569084523155" duration="2532000" />
+      <workItem from="1569084523155" duration="2792000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1566416431770</created>
@@ -459,14 +455,21 @@
       <option name="project" value="LOCAL" />
       <updated>1568825220824</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Refactoring old code">
+      <created>1569087243291</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1569087243292</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93681000" />
+    <option name="totallyTimeSpent" value="93941000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10347044" />
@@ -517,7 +520,8 @@
     <MESSAGE value="Add javadoc to &quot;PersentCalculator&quot; class" />
     <MESSAGE value="Refactor old code" />
     <MESSAGE value="Split file structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Split file structure" />
+    <MESSAGE value="Refactoring old code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring old code" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson11/Main.java">
@@ -897,8 +901,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Practice2/task5/task5/Container.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="59" column="24" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
+        <state relative-caret-position="332">
+          <caret line="66" column="21" lean-forward="true" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
           <folding>
             <element signature="e#155#156#0" expanded="true" />
             <element signature="e#210#211#0" expanded="true" />
