@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c650b0cd-04b9-4bd7-83ae-0fcf0ebb3d37" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice2/task5/task5/Container.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice2/task5/task5/Container.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice2/task5/task5/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice2/task5/task5/Demo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,30 +15,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Practice2/task5/task5/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="99" />
+            <state relative-caret-position="291">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Practice2/task5/task5/Container.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="66" column="21" lean-forward="true" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
+            <state relative-caret-position="323">
+              <caret line="91" column="17" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
               <folding>
-                <element signature="e#155#156#0" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
+                <element signature="method#add#0;class#Container#0" />
+                <element signature="method#delete#0;class#Container#0" />
+                <element signature="method#toString#0;class#Container#0" />
+                <element signature="method#change#0;class#Container#0" />
                 <element signature="e#1446#1447#0" expanded="true" />
                 <element signature="e#1509#1510#0" expanded="true" />
-                <element signature="e#1531#1532#0" expanded="true" />
-                <element signature="e#1578#1579#0" expanded="true" />
-                <element signature="e#1608#1609#0" expanded="true" />
-                <element signature="e#1648#1649#0" expanded="true" />
+                <element signature="method#contains#0;class#Container#0" />
+                <element signature="method#bubbleSort#0;class#Container#0" />
                 <element signature="method#containsAll#0;class#Container#0" />
+                <element signature="e#3196#3197#0" expanded="true" />
                 <element signature="class#ArraIterator#0;class#Container#0" />
               </folding>
             </state>
@@ -108,16 +111,15 @@
         <option value="$PROJECT_DIR$/src/Practice2/task5/Demo.java" />
         <option value="$PROJECT_DIR$/src/Practice2/task5/task5/IContainer.java" />
         <option value="$PROJECT_DIR$/src/Practice2/task5/task5/MyIterator.java" />
-        <option value="$PROJECT_DIR$/src/Practice2/task5/task5/Demo.java" />
         <option value="$PROJECT_DIR$/src/Practice2/task5/task5/Container.java" />
+        <option value="$PROJECT_DIR$/src/Practice2/task5/task5/Demo.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="876" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="373" />
+    <option name="width" value="1234" />
+    <option name="height" value="867" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -181,7 +183,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569087302028" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569097315440" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -355,7 +357,7 @@
       <workItem from="1568607535054" duration="594000" />
       <workItem from="1568621674697" duration="591000" />
       <workItem from="1568820471149" duration="8498000" />
-      <workItem from="1569084523155" duration="2792000" />
+      <workItem from="1569084523155" duration="8050000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1566416431770</created>
@@ -462,17 +464,24 @@
       <option name="project" value="LOCAL" />
       <updated>1569087243292</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Refactoring old code - change container to int array">
+      <created>1569087435649</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1569087435649</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93941000" />
+    <option name="totallyTimeSpent" value="99199000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="373" y="0" width="1234" height="867" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10347044" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.093696766" />
       <window_info id="Structure" order="1" sideWeight="0.50075185" side_tool="true" weight="0.21775702" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -481,7 +490,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37916666" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38396624" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -521,7 +530,8 @@
     <MESSAGE value="Refactor old code" />
     <MESSAGE value="Split file structure" />
     <MESSAGE value="Refactoring old code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactoring old code" />
+    <MESSAGE value="Refactoring old code - change container to int array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring old code - change container to int array" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson11/Main.java">
@@ -892,29 +902,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practice2/task5/task5/Demo.java">
+    <entry file="file://$PROJECT_DIR$/src/Practice2/task5/task5/Container.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="99" />
+        <state relative-caret-position="323">
+          <caret line="91" column="17" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
+          <folding>
+            <element signature="method#add#0;class#Container#0" />
+            <element signature="method#delete#0;class#Container#0" />
+            <element signature="method#toString#0;class#Container#0" />
+            <element signature="method#change#0;class#Container#0" />
+            <element signature="e#1446#1447#0" expanded="true" />
+            <element signature="e#1509#1510#0" expanded="true" />
+            <element signature="method#contains#0;class#Container#0" />
+            <element signature="method#bubbleSort#0;class#Container#0" />
+            <element signature="method#containsAll#0;class#Container#0" />
+            <element signature="e#3196#3197#0" expanded="true" />
+            <element signature="class#ArraIterator#0;class#Container#0" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practice2/task5/task5/Container.java">
+    <entry file="file://$PROJECT_DIR$/src/Practice2/task5/task5/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="66" column="21" lean-forward="true" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
-          <folding>
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#1446#1447#0" expanded="true" />
-            <element signature="e#1509#1510#0" expanded="true" />
-            <element signature="e#1531#1532#0" expanded="true" />
-            <element signature="e#1578#1579#0" expanded="true" />
-            <element signature="e#1608#1609#0" expanded="true" />
-            <element signature="e#1648#1649#0" expanded="true" />
-            <element signature="method#containsAll#0;class#Container#0" />
-            <element signature="class#ArraIterator#0;class#Container#0" />
-          </folding>
+        <state relative-caret-position="291">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>

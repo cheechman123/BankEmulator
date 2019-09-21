@@ -57,25 +57,39 @@ public class Container implements IContainer {
         return container;
     }
 
-    boolean contains(int string) {
-        if (string == 0)
+    boolean contains(int intIndex) {
+        if (intIndex == 0)
             throw new NullPointerException("Your String is empty");
         for (int i = 0; i < container.length; i++) {
-            if (container[i] == string)
+            if (container[i] == intIndex)
                 return true;
         }
         return false;
     }
 
-    public void bubbleSort(int[] container) {
-
+    public void bubbleSort() {
+        boolean isSorted = false;
+        int temp;
         for (int i = 0; i < container.length; i++) {
-            for (int j = 0; j < container.length - 1 - i; i++) {
+            isSorted = true;
+            for (int j = 0; j < container.length - 1; j++) {
                 if (container[j] < container[j + 1]) {
-
+                    temp = container[j];
+                    container[j] = container[j + 1];
+                    container[j + 1] = temp;
                 }
             }
+
         }
+    }
+
+    int linearSearch(int elemToSearch) {
+        for (int i = 0; i < container.length; i++) {
+            if (container[i]==elemToSearch){
+                return i;
+            }
+        }
+        return -1;
     }
 
     boolean containsAll(Container container1) {

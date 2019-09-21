@@ -24,6 +24,7 @@ class Demo {
         container.add(6666);
         container.add(4444);
         container.add(5555);
+        container.add(6666);
         container1.add(1111);
         container1.add(2222);
         container1.add(3333);
@@ -33,14 +34,17 @@ class Demo {
         container.delete(2);
         System.out.println("Container after deleting element - " + container);
         container.change(3, 212123);
-        System.out.println("Container after hanching element - " + container);
-        System.out.println("Does the Container contains such element? - " + container.contains(3));
+        System.out.println("Container after changing element - " + container);
+        System.out.println("Does the Container contains such element? - " + container.contains(4444));
         System.out.println("Does the Container contains all elements? - " + container.containsAll(container1));
-
+        container.bubbleSort();
+        System.out.println("Container after bubbleSort - " + container);
+        System.out.println("Searching element - " + container.linearSearch(4444 )+ "th in array");
         System.out.println("Container - " + container);
         System.out.println("Container1 - " + container1);
         container.clean();
         System.out.println("Container after cleaning elements - " + container);
+
 
     }
 }
