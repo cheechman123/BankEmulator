@@ -2,11 +2,129 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c650b0cd-04b9-4bd7-83ae-0fcf0ebb3d37" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practice2/task5/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practice2/task5/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practice2/task5/IContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practice2/task5/MyIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/task5/ContainerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice2/task5/task5/Container.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice2/task5/task5/Container.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice2/task5/task5/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice2/task5/task5/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LessonsYouTube.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LessonsYouTube.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Practice2/MyList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Practice2/MyListImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Practice2/task1/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Practice2/task2/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Practice2/task3/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Practice2/task4/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/keyHorstmanListing5_4_5_7/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/keyHorstmanListing5_4_5_7/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/keyHorstmanListing5_4_5_7/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/keyHorstmanListing5_4_5_7/PersonTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/keyHorstmanListing5_4_5_7/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson11/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson11/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson11/Toyota.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson12/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson12/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson13/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson13/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson14/ExampleClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson14/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson15/Example.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson15/IBancable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson15/IOtherInter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson15/ISomeIterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson15/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson16/SomeClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson16/TestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson16/TestModifiers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson17/A$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson17/A$Cofe$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson17/A$Cofe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson17/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson17/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson25/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson25/StaticExmpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson26/InitEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson26/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson27/ArrayEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson29/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson34/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson35/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson36/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson37/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson38/Demo$Days.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson38/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson39/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson40/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson17переменные/AA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lesson17переменные/BB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/pattern/Clicked.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/pattern/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/whyNotPractice/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/whyNotPractice/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice2/MyList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice2/MyListImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice2/task1/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice2/task2/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice2/task3/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice2/task4/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice2/task5/task5/Container.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice2/task5/task5/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice2/task5/task5/IContainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice2/task5/task5/MyIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keyHorstmanListing5_4_5_7/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keyHorstmanListing5_4_5_7/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keyHorstmanListing5_4_5_7/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keyHorstmanListing5_4_5_7/PersonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keyHorstmanListing5_4_5_7/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson11/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson11/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson11/Toyota.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson12/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson12/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson13/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson13/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson14/ExampleClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson14/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson15/ISomeIterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson15/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson16/SomeClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson16/TestClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson17/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson17/AA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson17/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson25/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson25/StaticExmpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson26/InitEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson27/ArrayEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson29/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson34/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson35/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson36/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson37/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson38/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson39/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson40/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pattern/Clicked.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pattern/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whyNotPractice/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whyNotPractice/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whyNotPractice/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whyNotPractice/PercentCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whyNotPractice/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whyNotPractice/text.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,31 +134,43 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Practice2/task5/task5/Demo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task5/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="360">
+              <caret line="126" column="56" lean-forward="true" selection-start-line="126" selection-start-column="56" selection-end-line="126" selection-end-column="56" />
+              <folding>
+                <element signature="e#270#330#1" />
+                <element signature="e#424#485#1" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Practice2/task5/task5/Container.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task5/Container.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="91" column="17" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
+            <state relative-caret-position="969">
+              <caret line="116" column="37" selection-start-line="116" selection-start-column="37" selection-end-line="116" selection-end-column="37" />
               <folding>
-                <element signature="method#add#0;class#Container#0" />
-                <element signature="method#delete#0;class#Container#0" />
                 <element signature="method#toString#0;class#Container#0" />
                 <element signature="method#change#0;class#Container#0" />
-                <element signature="e#1446#1447#0" expanded="true" />
-                <element signature="e#1509#1510#0" expanded="true" />
                 <element signature="method#contains#0;class#Container#0" />
                 <element signature="method#bubbleSort#0;class#Container#0" />
                 <element signature="method#containsAll#0;class#Container#0" />
-                <element signature="e#3196#3197#0" expanded="true" />
+                <element signature="e#3166#3167#0" expanded="true" />
                 <element signature="class#ArraIterator#0;class#Container#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/task5/ContainerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -67,9 +197,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lesson16/TestClass.java" />
-        <option value="$PROJECT_DIR$/src/lesson16/SomeClass.java" />
-        <option value="$PROJECT_DIR$/src/lesson11/Main.java" />
         <option value="$PROJECT_DIR$/src/lesson11/Car.java" />
         <option value="$PROJECT_DIR$/src/lesson11/Toyota.java" />
         <option value="$PROJECT_DIR$/src/lesson12/Main.java" />
@@ -113,11 +240,19 @@
         <option value="$PROJECT_DIR$/src/Practice2/task5/task5/MyIterator.java" />
         <option value="$PROJECT_DIR$/src/Practice2/task5/task5/Container.java" />
         <option value="$PROJECT_DIR$/src/Practice2/task5/task5/Demo.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Practice2/task5/task5/MyIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Practice2/task5/task5/IContainer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Practice2/task5/task5/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Practice2/task5/task5/Container.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Practice2/task5/Container.java" />
+        <option value="$PROJECT_DIR$/src/test/java/task5/ContainerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Practice2/task5/Demo.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="373" />
+    <option name="x" value="388" />
     <option name="width" value="1234" />
     <option name="height" value="867" />
   </component>
@@ -127,12 +262,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+      <pane id="PackagesPane">
+        <subPane>
           <expand>
             <path>
-              <item name="LessonsYouTube" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="LessonsYouTube" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="LessonsYouTube" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LessonsYouTube" type="616d4139:PackageViewModuleNode" />
             </path>
           </expand>
           <select />
@@ -154,25 +289,63 @@
               <item name="LessonsYouTube" type="b2602c69:ProjectViewProjectNode" />
               <item name="LessonsYouTube" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LessonsYouTube" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LessonsYouTube" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LessonsYouTube" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LessonsYouTube" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Practice2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LessonsYouTube" type="b2602c69:ProjectViewProjectNode" />
               <item name="LessonsYouTube" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Practice2" type="462c0819:PsiDirectoryNode" />
+              <item name="task5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LessonsYouTube" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LessonsYouTube" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LessonsYouTube" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LessonsYouTube" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LessonsYouTube" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LessonsYouTube" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="task5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
-              <item name="LessonsYouTube" type="58d84e3e:PackageViewProjectNode" />
-              <item name="LessonsYouTube" type="616d4139:PackageViewModuleNode" />
+              <item name="LessonsYouTube" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="LessonsYouTube" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
           </expand>
           <select />
@@ -183,7 +356,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569097315440" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569177689909" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -357,7 +530,11 @@
       <workItem from="1568607535054" duration="594000" />
       <workItem from="1568621674697" duration="591000" />
       <workItem from="1568820471149" duration="8498000" />
-      <workItem from="1569084523155" duration="8050000" />
+      <workItem from="1569084523155" duration="11546000" />
+      <workItem from="1569175480968" duration="2318000" />
+      <workItem from="1569341705904" duration="541000" />
+      <workItem from="1570729763453" duration="379000" />
+      <workItem from="1571341519854" duration="3122000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1566416431770</created>
@@ -471,17 +648,24 @@
       <option name="project" value="LOCAL" />
       <updated>1569087435649</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Add bubbleSort, and linearSearch methods">
+      <created>1569097402689</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1569097402689</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99199000" />
+    <option name="totallyTimeSpent" value="109055000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="373" y="0" width="1234" height="867" extended-state="0" />
+    <frame x="388" y="0" width="1234" height="867" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.093696766" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22572403" />
       <window_info id="Structure" order="1" sideWeight="0.50075185" side_tool="true" weight="0.21775702" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -490,7 +674,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38396624" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38396624" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -531,94 +715,81 @@
     <MESSAGE value="Split file structure" />
     <MESSAGE value="Refactoring old code" />
     <MESSAGE value="Refactoring old code - change container to int array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactoring old code - change container to int array" />
+    <MESSAGE value="Add bubbleSort, and linearSearch methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add bubbleSort, and linearSearch methods" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson11/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson16/SomeClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson12/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson12/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson12/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson12/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson14/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson14/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson14/ExampleClass.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson14/ExampleClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson15/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson15/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson15/ISomeIterface.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson15/ISomeIterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson17/A.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson17/A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson17/B.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson17/B.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson26/InitEx.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson26/InitEx.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson27/ArrayEx.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson27/ArrayEx.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pattern/Command.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pattern/Command.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
@@ -633,35 +804,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson25/B.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson25/B.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-170">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson25/StaticExmpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson25/StaticExmpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-68">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pattern/Clicked.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pattern/Clicked.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/whyNotPractice/text.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/whyNotPractice/text.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practice2/task1/Demo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task1/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-280">
           <caret line="34" column="55" lean-forward="true" selection-start-line="34" selection-start-column="55" selection-end-line="34" selection-end-column="55" />
@@ -672,7 +843,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practice2/task2/Demo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task2/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="28" column="52" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="52" />
@@ -687,49 +858,49 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Practice2/task5/Iterator.java" />
-    <entry file="file://$PROJECT_DIR$/src/Practice2/task3/Demo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task3/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/keyHorstmanListing5_4_5_7/PersonTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/keyHorstmanListing5_4_5_7/PersonTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/keyHorstmanListing5_4_5_7/Student.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/keyHorstmanListing5_4_5_7/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/keyHorstmanListing5_4_5_7/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/keyHorstmanListing5_4_5_7/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/keyHorstmanListing5_4_5_7/Manager.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/keyHorstmanListing5_4_5_7/Manager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/keyHorstmanListing5_4_5_7/Employee.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/keyHorstmanListing5_4_5_7/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practice2/task4/Demo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task4/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
           <caret line="38" selection-start-line="38" selection-end-line="38" />
@@ -745,21 +916,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practice2/MyList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practice2/MyListImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson29/A.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson29/A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
@@ -785,56 +942,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson34/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson34/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="82" selection-start-line="17" selection-start-column="82" selection-end-line="17" selection-end-column="82" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson35/Demo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson35/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson36/Demo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson36/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson37/Demo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson37/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson38/Demo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson38/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="30" column="62" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson39/Demo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson39/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson40/Demo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson40/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/whyNotPractice/Demo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/whyNotPractice/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="45" lean-forward="true" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
@@ -844,7 +1001,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/whyNotPractice/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/whyNotPractice/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="5" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="15" selection-end-column="5" />
@@ -855,21 +1012,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/whyNotPractice/User.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/whyNotPractice/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/whyNotPractice/Bank.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/whyNotPractice/Bank.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/whyNotPractice/PercentCalculator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/whyNotPractice/PercentCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="74" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
@@ -888,44 +1045,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practice2/task5/task5/MyIterator.java">
+    <entry file="file://$PROJECT_DIR$/src/Practice2/MyListImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/Practice2/MyList.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task5/MyIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practice2/task5/task5/IContainer.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        <state relative-caret-position="102">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practice2/task5/task5/Container.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task5/IContainer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="91" column="17" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/task5/ContainerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
           <folding>
-            <element signature="method#add#0;class#Container#0" />
-            <element signature="method#delete#0;class#Container#0" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task5/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="116" column="37" selection-start-line="116" selection-start-column="37" selection-end-line="116" selection-end-column="37" />
+          <folding>
             <element signature="method#toString#0;class#Container#0" />
             <element signature="method#change#0;class#Container#0" />
-            <element signature="e#1446#1447#0" expanded="true" />
-            <element signature="e#1509#1510#0" expanded="true" />
             <element signature="method#contains#0;class#Container#0" />
             <element signature="method#bubbleSort#0;class#Container#0" />
             <element signature="method#containsAll#0;class#Container#0" />
-            <element signature="e#3196#3197#0" expanded="true" />
+            <element signature="e#3166#3167#0" expanded="true" />
             <element signature="class#ArraIterator#0;class#Container#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practice2/task5/task5/Demo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task5/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="360">
+          <caret line="126" column="56" lean-forward="true" selection-start-line="126" selection-start-column="56" selection-end-line="126" selection-end-column="56" />
+          <folding>
+            <element signature="e#270#330#1" />
+            <element signature="e#424#485#1" />
+          </folding>
         </state>
       </provider>
     </entry>
