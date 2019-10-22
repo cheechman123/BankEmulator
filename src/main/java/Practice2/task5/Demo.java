@@ -7,23 +7,23 @@ class Demo {
     public static void main(String[] args) {
         Container firstContainer = new Container();
         Container secondContainer = new Container();
-        System.out.println("1-Fill in first firstContainer");
-        System.out.println("2-Fill in secont secondContainer");
-        System.out.println("3-To delete element from continer choose its index");
-        System.out.println("4-To delete element from continer1 choose its index");
-        System.out.println("5-Enter 1-index,2-int value for changeing element from firstContainer");
-        System.out.println("6-Enter 1-index,2-int value for changeing element from secondContainer");
-        System.out.println("7-Enter element whitch firstContainer have to contains");
-        System.out.println("8-Enter element whitch secondContainer have to contains");
+        System.out.println("1-Fill in first Container");
+        System.out.println("2-Fill in second Container");
+        System.out.println("3-To delete element from first Container choose its index");
+        System.out.println("4-To delete element from second Container choose its index");
+        System.out.println("5-Enter 1-index,2-int value for changing element from first Container");
+        System.out.println("6-Enter 1-index,2-int value for changing element from second Container");
+        System.out.println("7-Enter element which first Container have to contains");
+        System.out.println("8-Enter element which second Container have to contains");
         System.out.println("9-Does the Container contains all elements? - ");
-        System.out.println("10-Call bubble Sort for firstContainer");
-        System.out.println("11-Call bubble Sort for secondContainer");
-        System.out.println("12-If you want to see your firstContainer");
-        System.out.println("13-If you want to see your secondContainer");
-        System.out.println("14-Enter element for search in firstContainer");
-        System.out.println("15-Enter element for search in secondContainer");
-        System.out.println("16-For cleaning firstContainer");
-        System.out.println("17-For cleaning secondContainer");
+        System.out.println("10-Call bubble Sort for first Container");
+        System.out.println("11-Call bubble Sort for second Container");
+        System.out.println("12-If you want to see your first Container");
+        System.out.println("13-If you want to see your second Container");
+        System.out.println("14-Enter element for search in first Container");
+        System.out.println("15-Enter element for search in second Container");
+        System.out.println("16-For cleaning first Container");
+        System.out.println("17-For cleaning second Container");
         System.out.println("18-To exit");
 
         Scanner sc = new Scanner(System.in);
@@ -43,14 +43,14 @@ class Demo {
             switch (scanner) {
                 case 1: {
                     System.out.println("Enter your values  ");
-                    int fillInContainerValue = sc.nextInt();
-                    firstContainer.add(fillInContainerValue);
+                    int ñontainerValue = sc.nextInt();
+                    firstContainer.add(ñontainerValue);
                     break;
                 }
                 case 2: {
                     System.out.println("Enter your values ");
-                    int fillInContainerValue2 = sc.nextInt();
-                    secondContainer.add(fillInContainerValue2);
+                    int ñontainerValue = sc.nextInt();
+                    secondContainer.add(ñontainerValue);
                     break;
                 }
                 case 3: {
@@ -61,22 +61,24 @@ class Demo {
                 }
                 case 4: {
                     System.out.println("To delete element from continer1 choose its index");
-                    int valueForDelete1 = sc.nextInt();
-                    firstContainer.delete(valueForDelete1);
+                    int valueForDelete = sc.nextInt();
+                    secondContainer.delete(valueForDelete);
                     break;
                 }
                 case 5: {
-                    System.out.println("Enter 1-index,2-int value for changeing element from firstContainer");
+                    System.out.println(
+                            "Enter 1-index,2-int value for changeing element from firstContainer");
                     int indexValueForChangeing = sc.nextInt();
                     int intValueForChangeing = sc.nextInt();
                     firstContainer.change(indexValueForChangeing, intValueForChangeing);
                     break;
                 }
                 case 6: {
-                    System.out.println("Enter 1-index,2-int value for changeing element from secondContainer");
-                    int intValueForChangeing1 = sc.nextInt();
-                    int indexValueForChangeing1 = sc.nextInt();
-                    firstContainer.change(indexValueForChangeing1, intValueForChangeing1);
+                    System.out.println(
+                            "Enter 1-index,2-int value for changeing element from secondContainer");
+                    int intValueForChangeing = sc.nextInt();
+                    int indexValueForChangeing = sc.nextInt();
+                    secondContainer.change(intValueForChangeing, indexValueForChangeing);
                     break;
                 }
                 case 7: {
@@ -87,12 +89,13 @@ class Demo {
                 }
                 case 8: {
                     System.out.println("Enter element whitch secondContainer have to contains");
-                    int intValueForContainingElement1 = sc.nextInt();
-                    firstContainer.contains(intValueForContainingElement1);
+                    int intValueForContainingElement = sc.nextInt();
+                    secondContainer.contains(intValueForContainingElement);
                     break;
                 }
                 case 9: {
-                    System.out.println("Does the Container contains all elements? - " + firstContainer.containsAll(secondContainer));
+                    System.out.println("Does the Container contains all elements? - " +
+                                               firstContainer.containsAll(secondContainer));
                     break;
                 }
                 case 10: {
@@ -106,23 +109,23 @@ class Demo {
                     break;
                 }
                 case 12: {
-                    System.out.println("If you want to see your firstContainer" + firstContainer);
+                    System.out.println(firstContainer);
                     break;
                 }
                 case 13: {
-                    System.out.println("If you want to see your secondContainer" + secondContainer);
+                    System.out.println(secondContainer);
                     break;
                 }
                 case 14: {
                     System.out.println("Enter element for search in firstContainer");
-                    int elementValue= sc.nextInt();
+                    int elementValue = sc.nextInt();
                     firstContainer.linearSearch(elementValue);
                     break;
                 }
                 case 15: {
                     System.out.println("Enter element for search in secondContainer");
                     int elementValue1 = sc.nextInt();
-                    firstContainer.linearSearch(elementValue1);
+                    secondContainer.linearSearch(elementValue1);
                     break;
                 }
                 case 16: {
