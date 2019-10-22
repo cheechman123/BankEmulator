@@ -43,68 +43,65 @@ class Demo {
             switch (scanner) {
                 case 1: {
                     System.out.println("Enter your values  ");
-                    int ñontainerValue = sc.nextInt();
-                    firstContainer.add(ñontainerValue);
+                    int containerValue = sc.nextInt();
+                    firstContainer.add(containerValue);
                     break;
                 }
                 case 2: {
                     System.out.println("Enter your values ");
-                    int ñontainerValue = sc.nextInt();
-                    secondContainer.add(ñontainerValue);
+                    int containerValue = sc.nextInt();
+                    secondContainer.add(containerValue);
                     break;
                 }
                 case 3: {
-                    System.out.println("To delete element from continer choose its index");
+                    System.out.println("To delete element from first container choose its index");
                     int valueForDelete = sc.nextInt();
                     firstContainer.delete(valueForDelete);
                     break;
                 }
                 case 4: {
-                    System.out.println("To delete element from continer1 choose its index");
+                    System.out.println("To delete element from second container choose its index");
                     int valueForDelete = sc.nextInt();
                     secondContainer.delete(valueForDelete);
                     break;
                 }
                 case 5: {
-                    System.out.println(
-                            "Enter 1-index,2-int value for changeing element from firstContainer");
-                    int indexValueForChangeing = sc.nextInt();
-                    int intValueForChangeing = sc.nextInt();
-                    firstContainer.change(indexValueForChangeing, intValueForChangeing);
+                    System.out.println("Enter 1-index,2-int value for changing element from first Container");
+                    int indexValueForChanging = sc.nextInt();
+                    int intValueForChanging = sc.nextInt();
+                    firstContainer.change(indexValueForChanging, intValueForChanging);
                     break;
                 }
                 case 6: {
-                    System.out.println(
-                            "Enter 1-index,2-int value for changeing element from secondContainer");
-                    int intValueForChangeing = sc.nextInt();
-                    int indexValueForChangeing = sc.nextInt();
-                    secondContainer.change(intValueForChangeing, indexValueForChangeing);
+                    System.out.println("Enter 1-index,2-int value for changing element from second Container");
+                    int intValueForChanging = sc.nextInt();
+                    int indexValueForChanging = sc.nextInt();
+                    secondContainer.change(intValueForChanging, indexValueForChanging);
                     break;
                 }
                 case 7: {
-                    System.out.println("Enter element whitch firstContainer have to contains");
+                    System.out.println("Enter element which first Container have to contains");
                     int intValueForContainingElement = sc.nextInt();
                     firstContainer.contains(intValueForContainingElement);
                     break;
                 }
                 case 8: {
-                    System.out.println("Enter element whitch secondContainer have to contains");
+                    System.out.println("Enter element which second Container have to contains");
                     int intValueForContainingElement = sc.nextInt();
                     secondContainer.contains(intValueForContainingElement);
                     break;
                 }
                 case 9: {
-                    System.out.println("Does the Container contains all elements? - " +
-                                               firstContainer.containsAll(secondContainer));
+                    System.out.println("Does the Container contains all elements? - " + firstContainer.containsAll(secondContainer));
                     break;
                 }
                 case 10: {
-                    System.out.println("Call bubble Sort for firstContainer");
+                    System.out.println("Call bubble Sort for first Container");
                     firstContainer.bubbleSort();
                     break;
                 }
                 case 11: {
-                    System.out.println("Call bubble Sort for secondContainer");
+                    System.out.println("Call bubble Sort for second Container");
                     secondContainer.bubbleSort();
                     break;
                 }
@@ -117,24 +114,24 @@ class Demo {
                     break;
                 }
                 case 14: {
-                    System.out.println("Enter element for search in firstContainer");
+                    System.out.println("Enter element for search in first Container");
                     int elementValue = sc.nextInt();
                     firstContainer.linearSearch(elementValue);
                     break;
                 }
                 case 15: {
-                    System.out.println("Enter element for search in secondContainer");
+                    System.out.println("Enter element for search in second Container");
                     int elementValue1 = sc.nextInt();
                     secondContainer.linearSearch(elementValue1);
                     break;
                 }
                 case 16: {
-                    System.out.println("For cleaning firstContainer");
+                    System.out.println("For cleaning first Container");
                     firstContainer.clean();
                     break;
                 }
                 case 17: {
-                    System.out.println("For cleaning secondContainer");
+                    System.out.println("For cleaning second Container");
                     secondContainer.clean();
                     break;
                 }
