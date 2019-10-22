@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c650b0cd-04b9-4bd7-83ae-0fcf0ebb3d37" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice2/task1/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice2/task2/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson34/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Practice2/task5/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practice2/task5/Demo.java" afterDir="false" />
     </list>
@@ -21,8 +18,28 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task5/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="48" column="49" lean-forward="true" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
+            <state relative-caret-position="378">
+              <caret line="21" column="73" lean-forward="true" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
+              <folding>
+                <element signature="e#2196#2478#1" />
+                <element signature="e#2503#2787#1" />
+                <element signature="e#1581#1840#1" />
+                <element signature="e#1865#2127#1" />
+                <element signature="e#2152#2514#1" />
+                <element signature="e#2539#2906#1" />
+                <element signature="e#2931#3207#1" />
+                <element signature="e#3232#3511#1" />
+                <element signature="e#3536#3706#1" />
+                <element signature="e#3732#3896#1" />
+                <element signature="e#3922#4088#1" />
+                <element signature="e#4114#4249#1" />
+                <element signature="e#4275#4412#1" />
+                <element signature="e#5675#5936#1" />
+                <element signature="e#4712#4963#1" />
+                <element signature="e#4989#5140#1" />
+                <element signature="e#5166#5319#1" />
+                <element signature="e#5345#5452#1" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -271,7 +288,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571769552400" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571770930926" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -450,7 +467,7 @@
       <workItem from="1569341705904" duration="541000" />
       <workItem from="1570729763453" duration="379000" />
       <workItem from="1571341519854" duration="3462000" />
-      <workItem from="1571759096548" duration="9944000" />
+      <workItem from="1571759096548" duration="11488000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1566416431770</created>
@@ -585,11 +602,18 @@
       <option name="project" value="LOCAL" />
       <updated>1571760362405</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Refactoring dialog menu">
+      <created>1571769766632</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1571769766632</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119339000" />
+    <option name="totallyTimeSpent" value="120883000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1592" y="-8" width="1936" height="1056" extended-state="6" />
@@ -648,7 +672,8 @@
     <MESSAGE value="Add bubbleSort, and linearSearch methods" />
     <MESSAGE value="Add dialog menu for choosing functions" />
     <MESSAGE value="Refactoring variables , put it into cases" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactoring variables , put it into cases" />
+    <MESSAGE value="Refactoring dialog menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring dialog menu" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson12/Main.java">
@@ -1021,8 +1046,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task5/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="48" column="49" lean-forward="true" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
+        <state relative-caret-position="378">
+          <caret line="21" column="73" lean-forward="true" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
+          <folding>
+            <element signature="e#2196#2478#1" />
+            <element signature="e#2503#2787#1" />
+            <element signature="e#1581#1840#1" />
+            <element signature="e#1865#2127#1" />
+            <element signature="e#2152#2514#1" />
+            <element signature="e#2539#2906#1" />
+            <element signature="e#2931#3207#1" />
+            <element signature="e#3232#3511#1" />
+            <element signature="e#3536#3706#1" />
+            <element signature="e#3732#3896#1" />
+            <element signature="e#3922#4088#1" />
+            <element signature="e#4114#4249#1" />
+            <element signature="e#4275#4412#1" />
+            <element signature="e#5675#5936#1" />
+            <element signature="e#4712#4963#1" />
+            <element signature="e#4989#5140#1" />
+            <element signature="e#5166#5319#1" />
+            <element signature="e#5345#5452#1" />
+          </folding>
         </state>
       </provider>
     </entry>
