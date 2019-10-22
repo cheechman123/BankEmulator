@@ -17,22 +17,12 @@ class Demo {
         }
         Scanner sc = new Scanner(System.in);
         int scanner = sc.nextInt();
-        int fillInContainerValue = sc.nextInt();
-        int fillInContainerValue2 = sc.nextInt();
-        int fillInValueForDelete = sc.nextInt();
-        int fillInValueForDelete1 = sc.nextInt();
-        int fillInValueForChangeing = sc.nextInt();
-        int fillInValueForChangeing1 = sc.nextInt();
-        int intValueForChangeing = sc.nextInt();
-        int intValueForChangeing1 = sc.nextInt();
-        int intValueForContainingElement = sc.nextInt();
-        int intValueForContainingElement1 = sc.nextInt();
-        int intValueForSearch = sc.nextInt();
-        int intValueForSearch1 = sc.nextInt();
+
 
         while (true) {
             switch (scanner) {
                 case 1: {
+                    int fillInContainerValue = sc.nextInt();
                     System.out.println("Fill in first container");
                     if (container.size() >= 5) {
                         break;
@@ -42,6 +32,7 @@ class Demo {
                     break;
                 }
                 case 2: {
+                    int fillInContainerValue2 = sc.nextInt();
                     System.out.println("Fill in secont container");
                     if (container1.size() >= 5) {
                         break;
@@ -51,31 +42,39 @@ class Demo {
                     break;
                 }
                 case 3: {
+                    int fillInValueForDelete = sc.nextInt();
                     System.out.println("To delete element from continer choose its index");
                     container.delete(fillInValueForDelete);
                     break;
                 }
                 case 4: {
+                    int fillInValueForDelete1 = sc.nextInt();
                     System.out.println("To delete element from continer1 choose its index");
                     container.delete(fillInValueForDelete1);
                     break;
                 }
                 case 5: {
+                    int intValueForChangeing = sc.nextInt();
+                    int fillInValueForChangeing = sc.nextInt();
                     System.out.println("Enter 1-index,2-int value for changeing element from container");
                     container.change(fillInValueForChangeing, intValueForChangeing);
                     break;
                 }
                 case 6: {
+                    int intValueForChangeing1 = sc.nextInt();
+                    int fillInValueForChangeing1 = sc.nextInt();
                     System.out.println("Enter 1-index,2-int value for changeing element from container1");
                     container.change(fillInValueForChangeing1, intValueForChangeing1);
                     break;
                 }
                 case 7: {
+                    int intValueForContainingElement = sc.nextInt();
                     System.out.println("Enter element whitch container have to contains");
                     container.contains(intValueForContainingElement);
                     break;
                 }
                 case 8: {
+                    int intValueForContainingElement1 = sc.nextInt();
                     System.out.println("Enter element whitch container1 have to contains");
                     container.contains(intValueForContainingElement1);
                     break;
@@ -103,11 +102,13 @@ class Demo {
                     break;
                 }
                 case 14: {
+                    int intValueForSearch = sc.nextInt();
                     System.out.println("Enter element for search in container");
                     container.linearSearch(intValueForSearch);
                     break;
                 }
                 case 15: {
+                    int intValueForSearch1 = sc.nextInt();
                     System.out.println("Enter element for search in container1");
                     container.linearSearch(intValueForSearch1);
                     break;
@@ -122,11 +123,10 @@ class Demo {
                     container1.clean();
                     break;
                 }
-                case 18:{
+                case 18: {
                     System.out.println("To exit ");
-                  //??????????????????????????????????
+                    System.exit(0);
                 }
-
                 default:
                     System.out.println("Choose once again");
                     break;

@@ -1,127 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c650b0cd-04b9-4bd7-83ae-0fcf0ebb3d37" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice2/task5/Container.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice2/task5/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice2/task5/IContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice2/task5/MyIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/task5/ContainerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c650b0cd-04b9-4bd7-83ae-0fcf0ebb3d37" name="Default Changelist" comment="Add dialog menu for choosing functions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LessonsYouTube.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LessonsYouTube.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice2/MyList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice2/MyListImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice2/task1/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice2/task2/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice2/task3/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice2/task4/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/keyHorstmanListing5_4_5_7/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/keyHorstmanListing5_4_5_7/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/keyHorstmanListing5_4_5_7/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/keyHorstmanListing5_4_5_7/PersonTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/keyHorstmanListing5_4_5_7/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson11/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson11/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson11/Toyota.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson12/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson12/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson13/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson13/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson14/ExampleClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson14/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson15/Example.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson15/IBancable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson15/IOtherInter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson15/ISomeIterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson15/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson16/SomeClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson16/TestClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson16/TestModifiers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson17/A$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson17/A$Cofe$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson17/A$Cofe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson17/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson17/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson25/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson25/StaticExmpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson26/InitEx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson26/Parent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson27/ArrayEx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson29/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson34/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson35/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson36/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson37/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson38/Demo$Days.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson38/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson39/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson10_38lesson10nasledovanie/lesson40/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson17переменные/AA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/lesson17переменные/BB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/pattern/Clicked.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/pattern/Command.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/whyNotPractice/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/whyNotPractice/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice2/MyList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice2/MyListImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice2/task1/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice2/task2/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice2/task3/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice2/task4/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice2/task5/task5/Container.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice2/task5/task5/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice2/task5/task5/IContainer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice2/task5/task5/MyIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/keyHorstmanListing5_4_5_7/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/keyHorstmanListing5_4_5_7/Manager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/keyHorstmanListing5_4_5_7/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/keyHorstmanListing5_4_5_7/PersonTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/keyHorstmanListing5_4_5_7/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/A.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson11/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson11/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson11/Toyota.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson12/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson12/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson13/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson13/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson14/ExampleClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson14/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson15/ISomeIterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson15/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson16/SomeClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson16/TestClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson17/A.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson17/AA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson17/B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson25/B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson25/StaticExmpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson26/InitEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson27/ArrayEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson29/A.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson34/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson35/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson36/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson37/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson38/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson39/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10_38lesson10nasledovanie/lesson40/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pattern/Clicked.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pattern/Command.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/whyNotPractice/Bank.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/whyNotPractice/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/whyNotPractice/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/whyNotPractice/PercentCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/whyNotPractice/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/whyNotPractice/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/whyNotPractice/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Practice2/task5/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practice2/task5/Demo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -133,14 +16,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task5/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="126" column="56" lean-forward="true" selection-start-line="126" selection-start-column="56" selection-end-line="126" selection-end-column="56" />
+            <state relative-caret-position="238">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task4/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1343">
+              <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
               <folding>
-                <element signature="e#270#330#1" />
-                <element signature="e#424#485#1" />
+                <element signature="e#0#2239#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -167,7 +58,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/task5/ContainerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="170">
               <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -197,7 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lesson11/Car.java" />
         <option value="$PROJECT_DIR$/src/lesson11/Toyota.java" />
         <option value="$PROJECT_DIR$/src/lesson12/Main.java" />
         <option value="$PROJECT_DIR$/src/lesson12/Person.java" />
@@ -248,6 +138,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Practice2/task5/Container.java" />
         <option value="$PROJECT_DIR$/src/test/java/task5/ContainerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Practice2/task5/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Practice2/task4/Demo.java" />
       </list>
     </option>
   </component>
@@ -262,6 +153,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="LessonsYouTube" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="LessonsYouTube" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -313,6 +215,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Practice2" type="462c0819:PsiDirectoryNode" />
+              <item name="task4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LessonsYouTube" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LessonsYouTube" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice2" type="462c0819:PsiDirectoryNode" />
               <item name="task5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -335,17 +246,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="task5" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="LessonsYouTube" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="LessonsYouTube" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
           </expand>
           <select />
@@ -356,7 +256,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569177689909" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571345435858" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -383,7 +283,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo (3)">
+  <component name="RunManager" selected="Application.Demo (4)">
     <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson10_38lesson10nasledovanie.lesson39.Demo" />
       <module name="LessonsYouTube" />
@@ -423,12 +323,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson10_38lesson10nasledovanie.lesson35.Demo" />
+    <configuration name="Demo (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice2.task5.Demo" />
       <module name="LessonsYouTube" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson10_38lesson10nasledovanie.lesson35.*" />
+          <option name="PATTERN" value="Practice2.task5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -478,11 +378,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo (4)" />
         <item itemvalue="Application.Demo (3)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Demo (2)" />
         <item itemvalue="Application.Demo (1)" />
-        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -534,7 +434,8 @@
       <workItem from="1569175480968" duration="2318000" />
       <workItem from="1569341705904" duration="541000" />
       <workItem from="1570729763453" duration="379000" />
-      <workItem from="1571341519854" duration="3122000" />
+      <workItem from="1571341519854" duration="3462000" />
+      <workItem from="1571759096548" duration="928000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1566416431770</created>
@@ -655,17 +556,24 @@
       <option name="project" value="LOCAL" />
       <updated>1569097402689</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Add dialog menu for choosing functions">
+      <created>1571345200951</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1571345200952</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109055000" />
+    <option name="totallyTimeSpent" value="110323000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="388" y="0" width="1234" height="867" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22572403" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22913118" />
       <window_info id="Structure" order="1" sideWeight="0.50075185" side_tool="true" weight="0.21775702" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -684,7 +592,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.2611111" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32911393" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32489452" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32489452" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -716,7 +624,8 @@
     <MESSAGE value="Refactoring old code" />
     <MESSAGE value="Refactoring old code - change container to int array" />
     <MESSAGE value="Add bubbleSort, and linearSearch methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add bubbleSort, and linearSearch methods" />
+    <MESSAGE value="Add dialog menu for choosing functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add dialog menu for choosing functions" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson12/Main.java">
@@ -900,22 +809,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task4/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1275#1276#0" expanded="true" />
-            <element signature="e#1331#1332#0" expanded="true" />
-            <element signature="e#1363#1364#0" expanded="true" />
-            <element signature="e#1423#1424#0" expanded="true" />
-            <element signature="e#2044#2045#0" expanded="true" />
-            <element signature="e#2074#2075#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson29/A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1068,16 +961,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/task5/ContainerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task5/Container.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
@@ -1094,13 +977,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/task5/ContainerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task5/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="126" column="56" lean-forward="true" selection-start-line="126" selection-start-column="56" selection-end-line="126" selection-end-column="56" />
+        <state relative-caret-position="238">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task4/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
           <folding>
-            <element signature="e#270#330#1" />
-            <element signature="e#424#485#1" />
+            <element signature="e#0#2239#0" expanded="true" />
           </folding>
         </state>
       </provider>
