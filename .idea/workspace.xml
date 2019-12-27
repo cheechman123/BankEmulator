@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c650b0cd-04b9-4bd7-83ae-0fcf0ebb3d37" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/practicalTest/FloatingPointValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Practice2/task5/Container.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practice2/task5/Container.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Practice2/task5/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practice2/task5/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/task5/ContainerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/task5/ContainerTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -15,24 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task5/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="82" column="57" lean-forward="true" selection-start-line="82" selection-start-column="57" selection-end-line="82" selection-end-column="57" />
-              <folding>
-                <element signature="e#3232#3511#1" />
-                <element signature="e#3536#3706#1" />
-                <element signature="e#3732#3896#1" />
-                <element signature="e#3922#4088#1" />
-                <element signature="e#4114#4249#1" />
-                <element signature="e#4275#4412#1" />
-                <element signature="e#5675#5936#1" />
-                <element signature="e#4712#4963#1" />
-                <element signature="e#4989#5140#1" />
-                <element signature="e#5166#5319#1" />
-                <element signature="e#5345#5452#1" />
-              </folding>
+            <state relative-caret-position="2210">
+              <caret line="130" column="26" selection-start-line="130" selection-start-column="26" selection-end-line="130" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -49,11 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task2/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
+            <state relative-caret-position="408">
               <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-              <folding>
-                <element signature="e#128#144#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -63,9 +50,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
-              <folding>
-                <element signature="e#131#145#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -73,15 +57,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task5/Container.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
-              <caret line="116" column="37" selection-start-line="116" selection-start-column="37" selection-end-line="116" selection-end-column="37" />
+            <state relative-caret-position="306">
+              <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
               <folding>
-                <element signature="method#toString#0;class#Container#0" />
-                <element signature="method#change#0;class#Container#0" />
-                <element signature="method#contains#0;class#Container#0" />
+                <element signature="method#add#0;class#Container#0" />
+                <element signature="method#delete#0;class#Container#0" />
                 <element signature="method#bubbleSort#0;class#Container#0" />
                 <element signature="method#containsAll#0;class#Container#0" />
-                <element signature="e#3166#3167#0" expanded="true" />
                 <element signature="class#ArraIterator#0;class#Container#0" />
               </folding>
             </state>
@@ -91,11 +73,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/task5/ContainerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+            <state relative-caret-position="124">
+              <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/practicalTest/FloatingPointValue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -121,9 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lesson14/ExampleClass.java" />
-        <option value="$PROJECT_DIR$/src/lesson15/Main.java" />
-        <option value="$PROJECT_DIR$/src/lesson15/ISomeIterface.java" />
         <option value="$PROJECT_DIR$/src/lesson17/A.java" />
         <option value="$PROJECT_DIR$/src/lesson17/B.java" />
         <option value="$PROJECT_DIR$/src/lesson27/ArrayEx.java" />
@@ -164,21 +152,24 @@
         <option value="$PROJECT_DIR$/src/main/java/Practice2/task5/task5/IContainer.java" />
         <option value="$PROJECT_DIR$/src/main/java/Practice2/task5/task5/Demo.java" />
         <option value="$PROJECT_DIR$/src/main/java/Practice2/task5/task5/Container.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Practice2/task5/Container.java" />
-        <option value="$PROJECT_DIR$/src/test/java/task5/ContainerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Practice2/task4/Demo.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson34/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/Practice2/task2/Demo.java" />
         <option value="$PROJECT_DIR$/src/main/java/Practice2/task1/Demo.java" />
         <option value="$PROJECT_DIR$/src/main/java/keyHorstmanListing5_4_5_7/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Practice2/task5/Container.java" />
         <option value="$PROJECT_DIR$/src/main/java/Practice2/task5/Demo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/task5/ContainerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/practicalTest/first/Practice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/practicalTest/Practice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/practicalTest/FloatingPointValue.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1846" />
-    <option name="y" value="-16" />
-    <option name="width" value="1234" />
+    <option name="x" value="1592" />
+    <option name="y" value="-8" />
+    <option name="width" value="1554" />
     <option name="height" value="867" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -187,28 +178,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="LessonsYouTube" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="LessonsYouTube" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="LessonsYouTube" type="58d84e3e:PackageViewProjectNode" />
-              <item name="LessonsYouTube" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -240,6 +209,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="practicalTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LessonsYouTube" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LessonsYouTube" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Practice2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -276,12 +253,34 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LessonsYouTube" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LessonsYouTube" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="LessonsYouTube" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="LessonsYouTube" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571774589327" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577469211233" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -308,33 +307,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo (4)">
-    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson10_38lesson10nasledovanie.lesson39.Demo" />
-      <module name="LessonsYouTube" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson10_38lesson10nasledovanie.lesson39.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson10_38lesson10nasledovanie.lesson40.Demo" />
-      <module name="LessonsYouTube" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson10_38lesson10nasledovanie.lesson40.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.FloatingPointValue">
     <configuration name="Demo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice2.task5.task5.Demo" />
       <module name="LessonsYouTube" />
@@ -361,26 +334,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice2.task5.task5.Demo" />
+    <configuration name="FloatingPointValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practicalTest.FloatingPointValue" />
       <module name="LessonsYouTube" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice2.task5.task5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson36.Demo" />
-      <module name="LessonsYouTube" />
-      <option name="PROGRAM_PARAMETERS" value="param1 param2 param3 normVeshi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson36.*" />
+          <option name="PATTERN" value="practicalTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -401,13 +360,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ContainerTest.testBubbleSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LessonsYouTube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="task5" />
+      <option name="MAIN_CLASS_NAME" value="task5.ContainerTest" />
+      <option name="METHOD_NAME" value="testBubbleSort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FloatingPointValue" />
+        <item itemvalue="JUnit.ContainerTest.testBubbleSort" />
         <item itemvalue="Application.Demo (4)" />
         <item itemvalue="Application.Demo (3)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Demo (2)" />
-        <item itemvalue="Application.Demo (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -460,7 +435,9 @@
       <workItem from="1569341705904" duration="541000" />
       <workItem from="1570729763453" duration="379000" />
       <workItem from="1571341519854" duration="3462000" />
-      <workItem from="1571759096548" duration="14450000" />
+      <workItem from="1571759096548" duration="36667000" />
+      <workItem from="1572098412082" duration="1052000" />
+      <workItem from="1577461878020" duration="6263000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1566416431770</created>
@@ -616,17 +593,35 @@
       <option name="project" value="LOCAL" />
       <updated>1571773112267</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Refactoring mistakes in cases">
+      <created>1571774670417</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1571774670417</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="ContainerTest_testBubbleSort - 2019.10.23 at 23h 30m 49s.xml">
+      <configuration name="ContainerTest.testBubbleSort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContainerTest_testBubbleSort - 2019.10.23 at 23h 39m 57s.xml">
+      <configuration name="ContainerTest.testBubbleSort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContainerTest_testBubbleSort - 2019.10.23 at 23h 43m 55s.xml">
+      <configuration name="ContainerTest.testBubbleSort" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123845000" />
+    <option name="totallyTimeSpent" value="153377000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1592" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1433902" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14658849" />
       <window_info id="Structure" order="1" sideWeight="0.50075185" side_tool="true" weight="0.21775702" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -635,7 +630,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38333333" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30333334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -645,7 +640,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.2611111" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32911393" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.25666666" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.25444445" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -682,30 +677,10 @@
     <MESSAGE value="Refactoring dialog menu" />
     <MESSAGE value="Ending refactoring of dialog menu" />
     <MESSAGE value="Add some changes in outputs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add some changes in outputs" />
+    <MESSAGE value="Refactoring mistakes in cases" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring mistakes in cases" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson12/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson12/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson14/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson14/ExampleClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -813,34 +788,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/keyHorstmanListing5_4_5_7/PersonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/keyHorstmanListing5_4_5_7/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/keyHorstmanListing5_4_5_7/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/keyHorstmanListing5_4_5_7/Manager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/keyHorstmanListing5_4_5_7/PersonTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/keyHorstmanListing5_4_5_7/Student.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/keyHorstmanListing5_4_5_7/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/keyHorstmanListing5_4_5_7/Manager.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson10_38lesson10nasledovanie/lesson29/A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -986,32 +937,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/task5/ContainerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task5/Container.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="116" column="37" selection-start-line="116" selection-start-column="37" selection-end-line="116" selection-end-column="37" />
-          <folding>
-            <element signature="method#toString#0;class#Container#0" />
-            <element signature="method#change#0;class#Container#0" />
-            <element signature="method#contains#0;class#Container#0" />
-            <element signature="method#bubbleSort#0;class#Container#0" />
-            <element signature="method#containsAll#0;class#Container#0" />
-            <element signature="e#3166#3167#0" expanded="true" />
-            <element signature="class#ArraIterator#0;class#Container#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task4/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -1019,23 +944,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task1/Demo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/keyHorstmanListing5_4_5_7/Employee.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task5/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
-          <folding>
-            <element signature="e#131#145#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task2/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="e#128#144#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="2210">
+          <caret line="130" column="26" selection-start-line="130" selection-start-column="26" selection-end-line="130" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -1046,30 +959,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/keyHorstmanListing5_4_5_7/Employee.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task2/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        <state relative-caret-position="408">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task5/Demo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task1/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="82" column="57" lean-forward="true" selection-start-line="82" selection-start-column="57" selection-end-line="82" selection-end-column="57" />
+        <state relative-caret-position="289">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Practice2/task5/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
           <folding>
-            <element signature="e#3232#3511#1" />
-            <element signature="e#3536#3706#1" />
-            <element signature="e#3732#3896#1" />
-            <element signature="e#3922#4088#1" />
-            <element signature="e#4114#4249#1" />
-            <element signature="e#4275#4412#1" />
-            <element signature="e#5675#5936#1" />
-            <element signature="e#4712#4963#1" />
-            <element signature="e#4989#5140#1" />
-            <element signature="e#5166#5319#1" />
-            <element signature="e#5345#5452#1" />
+            <element signature="method#add#0;class#Container#0" />
+            <element signature="method#delete#0;class#Container#0" />
+            <element signature="method#bubbleSort#0;class#Container#0" />
+            <element signature="method#containsAll#0;class#Container#0" />
+            <element signature="class#ArraIterator#0;class#Container#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/task5/ContainerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/practicalTest/Practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/practicalTest/FloatingPointValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
         </state>
       </provider>
     </entry>
